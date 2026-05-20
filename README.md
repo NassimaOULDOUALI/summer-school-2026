@@ -122,7 +122,7 @@ The original code has been reorganized, annotated, and extended for pedagogical 
 ## 👩‍🏫 Author
 
 **Nassima Ould Ouali**  
-Research Engineer in Speech AI · Hi! PARIS / École Polytechnique  
+Research Engineer in Speech AI · Hi! PARIS / Institut Polytechnique de Paris 
 [GitHub](https://github.com/NassimaOULDOUALI) · [Hi! PARIS](https://hi-paris.fr)
 
 ---
